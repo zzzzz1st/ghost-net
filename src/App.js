@@ -1,5 +1,7 @@
+import Hero from "./Hero";
+
 function App() {
-  return null;
+  return <Hero />;
 }
 
 export default App;
